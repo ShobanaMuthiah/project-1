@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@100..800&display=swap');
+
+.navb{
+    background-color: #2F3D46 !important;
+}
+.fa{
+    color:white;
+}
+.ttc{
+    color:white;    
+}
+.bbc, body{
+    background-color: #CAD2C5 !important;
+    border:none !important;
+}
+
+::placeholder{
+    color:#999999 !important;
+}
+.sb{
+    padding-top:115% !important;
+    border-radius: 10px;
+    margin: 33px !important;
+
+}
+.swd{
+    width:80% !important
+}
+.lwd{
+    
+    width:100% !important
+}
+body{
+    font-family: "Trispace", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight:300 !important;
+    font-style:normal;
+    font-variation-settings:
+    "wdth" 125;
+  }
